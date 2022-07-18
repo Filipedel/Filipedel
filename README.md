@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Filipedel
-- 👀 I’m interested in Programation
+- 👀 I’m interested in Machine Learning and Deep Learning
 - 🌱 I’m currently learning everything i can learn
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me filipedelaunay@gmail.com
 
 <!---
